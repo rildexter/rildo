@@ -1,0 +1,17 @@
+ /*p { color: blue; background-color: yellow; } */
+ 
+ 
+/* hr {
+      color: #f00;
+      background-color: #f00;
+      height: 5px;
+    }
+	*/
+	
+	hr {
+      border-top: 1px dashed #f00;
+      border-bottom: 1px solid #f00;
+      color: #fff;
+      background-color: #fff;
+      height: 4px;
+    }
