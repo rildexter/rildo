@@ -7,7 +7,7 @@
       height: 5px;
     }
 	*/
-	
+	/*
 	hr {
       border-top: 1px dashed #f00;
       border-bottom: 1px solid #f00;
@@ -15,3 +15,16 @@
       background-color: #fff;
       height: 4px;
     }
+
+  */
+  h1 { background-image: url(../imagens/fundo.jpeg); } 
+
+  body {
+    border-color: red; 
+   border-style: solid; 
+   border-width: 1px;
+   }
+
+   body { background-image:url(../imagens/fundo.jpeg);
+    background-size: cover;/*fixar a imagem como capa */
+  }
