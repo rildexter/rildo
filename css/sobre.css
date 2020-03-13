@@ -1,0 +1,22 @@
+body { 
+    color: #333333;
+     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+    }
+    
+    h1 { 
+        background-image: url(../imagens/flores.jpg);
+         }
+    h2 { 
+        border-bottom: 2px solid #333333; 
+        }
+
+figure {
+            background-color: rgb(58, 9, 233);
+            border: 5px solid rgb(233, 5, 5);
+            text-align: center;
+            }
+figcaption { 
+           font-style: italic;
+            }
+           
+        
